@@ -1,5 +1,7 @@
 NYC Data DB Python
 
+#must have db from myself or a project member as it is over 100mb so i cant upload it
+
 create directory(VSC)
 
 create environment
